@@ -5,7 +5,7 @@ A Machine Learning-based Spam Detection system trained on 200k+ real-world messa
 ---
 
 ## 🚀 Live Demo
-🔗 https://spam-detection-app-ycqpuifrgwx3hyolmsvvws.streamlit.app  
+🔗 https://spam-detection-app-ycqpulfrgwx3hyolmsvwvs.streamlit.app/ 
 
 ---
 
